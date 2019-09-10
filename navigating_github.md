@@ -1,8 +1,11 @@
-Here is the url to STAT 545 homepage repo:
+# Helpful Links
 
-https://github.com/STAT545-UBC/STAT545-home
 
-Here is its corresponding Organisation account:
+Here is the url to __STAT 545 homepage__ repo:
+
+[STAT 545 Home](https://github.com/STAT545-UBC/STAT545-home)
+
+Here is its corresponding _Organisation_ account:
 
 https://github.com/STAT545-UBC
 
