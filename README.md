@@ -1,2 +1,2 @@
-# STAT545-participation
+# STAT545 participation
 Participation repo for STAT 545
